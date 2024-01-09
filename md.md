@@ -55,3 +55,31 @@ asdds
 
 [1]: https://skillbox.ru/media "Всплывающая подсказка"
 [code]: https://skillbox.ru/media/code/
+
+
+
+```python
+if x > 0:
+	print (x)
+else:
+	print ('Hello, World!')
+```
+
+```c
+#include <stdio.h>
+int main() {
+   printf("Hello, World!");
+   return 0;
+}
+```
+
+```javascript
+let x = 12;
+let y = 6;
+console.log(x + y);
+```
+
+|Столбец 1|Столбец 2|Столбец 3|
+|-|--------|---|
+|Длинная запись в первом столбце|Запись в столбце 2|Запись в столбце 3|
+|Кртк зпс| |Слева нет записи|
