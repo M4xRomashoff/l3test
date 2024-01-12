@@ -13,6 +13,5 @@
 <br> **git branch** -  показать все ветки
 <br> **git branch branch_name** -  создать ветку с именем branch_name
 <br> **git checkout branch_name** -  перейти на ветку branch_name
-<br> **git branch -d branch_name** -  удалить ветку с проверкой на  отличия 
-<br> **git branch -D branch_name** -  удалить ветку без проверки 
+<br> **git merge branch_name** -  комадна соединения веток, выполняется из основной ветки , указывая на ответвление.
 ##
